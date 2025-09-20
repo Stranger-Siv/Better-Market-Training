@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
+@import "tailwindcss";
+
+
+
+.opacity-18 { opacity: 0.18; }
+.opacity-30 { opacity: 0.30; }
+
+
+html, body, #root { height: 100%; }
+body { font-family: 'Poppins', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
